@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Амжад Дауд
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Амжад Дауд
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Амжад
+last_name: Дауд
 
 # Status emoji
 status:
@@ -20,75 +20,50 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: RUDN
+    url: https://rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '103224416@pfur.ru'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Amjad.F.S.Dawud
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/amjaddawoud91
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/amjaddawud
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Искусственный интеллект
+  - Кибербезопасность
+  - Видеоигры
+  - Музыка
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Student
+    institution: RUDN
+    date_start: 2024-09-01
+    date_end: 2028-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://rudn.ru). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://rudn.ru'
+  
+  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Student
+    company_name: RUDN
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -183,4 +158,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+* Привет! Меня зовут Амжад Дауд.
+* Студент 1 курса РУДН, изучаю компьютерные науки.
+* Интересуюсь программированием, алгоритмами и разработкой ПО.
+* Люблю разбираться в сложных задачах и искать нестандартные решения.
+* Постепенно осваиваю новые технологии и инструменты для разработки.
