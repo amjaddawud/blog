@@ -85,44 +85,41 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: Использую для разработки программ и работы с данными
+        percent: 70
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: C++
+        description: Программирование на C++ для разработки алгоритмов
+        percent: 60
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Кибербезопасность
+        description: Основы защиты данных и сетей
+        percent: 50
         icon: circle-stack
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Видеоигры
+        description: Увлекаюсь стратегиями и ролевыми играми
         percent: 80
-        icon: camera
+      - name: Музыка
+        description: Играю на гитаре в свободное время
+        percent: 70
+      - name: Программирование
+        description: Люблю разрабатывать свои проекты
+        percent: 90
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
+  - name: Русский
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Английский
+    percent: 65
+  - name: Арабский
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
